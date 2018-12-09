@@ -1,0 +1,10 @@
+{
+  "name": "transpiled-nxt",
+  "version": "0.1.0",
+  "description": "NXT generate unsigned bytes",
+  "private": true,
+  "author": "BlockchainZoo",
+  "dependencies": {
+    "jsbn": "^1.1.0"
+  }
+}
